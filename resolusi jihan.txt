@@ -3,4 +3,4 @@ resolusi jihan:
 - belajar frontend dan back end (sebelum sem 4)
 - ambil kelas toefl
 - membuat konten sederhana tentang belajar
-- konfes
+- belajar DIY
